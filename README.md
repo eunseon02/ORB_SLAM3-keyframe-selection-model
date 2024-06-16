@@ -2,8 +2,7 @@
 
 
 ## model
-avaliable at https://drive.google.com/drive/folders/1--0xnF6xWYIHkgH6WfPhmLS8IvPCeMpV?usp=sharing 
-
+weight file avaliable at [best_model_euroc_60 - Google Drive](https://drive.google.com/drive/folders/1--0xnF6xWYIHkgH6WfPhmLS8IvPCeMpV?usp=sharing)
 
 
 
