@@ -1,5 +1,13 @@
 # ORB-SLAM3
 
+
+## model
+avaliable at https://drive.google.com/drive/folders/1--0xnF6xWYIHkgH6WfPhmLS8IvPCeMpV?usp=sharing 
+
+
+
+
+
 ### V1.0, December 22th, 2021
 **Authors:** Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, [José M. M. Montiel](http://webdiis.unizar.es/~josemari/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/).
 
